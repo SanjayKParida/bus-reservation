@@ -62,6 +62,6 @@ The Bus Reservation App is a comprehensive mobile application built with Flutter
    ```
 
 ## Contact
-Your Name - your.email@example.com
+Sanjay Kumar Parida - kumarparidasanjay23@gmail.com
 
-Project Link: [https://github.com/yourusername/bus-reservation-app](https://github.com/yourusername/bus-reservation-app)
+Project Link: [https://github.com/SanjayKParida/bus-reservation](https://github.com/SanjayKParida/bus-reservation)
